@@ -1,0 +1,7 @@
+*.mp4
+*.avis
+notepad/Gemini.md
+todolist/__pycache__/data_manager.cpython-311.pyc
+
+todolist/__pycache__/todo_app.cpython-311.pyc
+todolist/GEMINI.md

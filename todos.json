@@ -1,14 +1,1 @@
-[
-    {
-        "text": "수업",
-        "completed": false,
-        "start_datetime": "2025-07-04T09:00:30",
-        "end_datetime": "2025-07-04T18:20:30"
-    },
-    {
-        "text": "청소",
-        "completed": false,
-        "start_datetime": "2025-07-03T19:00:00",
-        "end_datetime": "2025-07-04T19:31:00"
-    }
-]
+[]

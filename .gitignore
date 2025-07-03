@@ -1,7 +1,10 @@
 *.mp4
 *.avis
+*.jpg
+*.png
 notepad/Gemini.md
 todolist/__pycache__/data_manager.cpython-311.pyc
-
 todolist/__pycache__/todo_app.cpython-311.pyc
 todolist/GEMINI.md
+GEMINI.md
+yolov8n.pt

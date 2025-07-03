@@ -16,6 +16,10 @@
 ## Programs
 
 ### Notepad
+
+![Image](https://github.com/user-attachments/assets/b6bc1731-d0f0-4761-adf7-90f385d8ef52)  
+
+
 **파일구조**
 ```
 notepad/

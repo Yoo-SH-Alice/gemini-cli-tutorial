@@ -30,6 +30,9 @@ todolist/
 
 
 ### Todolsit
+
+![Image](https://github.com/user-attachments/assets/1444de4f-5ab1-42c3-a0d0-2e12fc4e536e)
+
 ```
 todolist/
 ├── main.py             # 애플리케이션의 진입점

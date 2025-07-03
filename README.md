@@ -17,6 +17,10 @@
 
 ### Notepad
 **파일구조**
+
+![Image](https://github.com/user-attachments/assets/b6bc1731-d0f0-4761-adf7-90f385d8ef52)
+
+
 ```
 notepad/
 ├── main.py             # 애플리케이션의 진입점
@@ -72,7 +76,7 @@ gallery/
 ### YOLO Object Detection
 
 
-![Image](https://github.com/user-attachments/assets/b6bc1731-d0f0-4761-adf7-90f385d8ef52)
+![Image](https://github.com/user-attachments/assets/e43a5dd9-8bdf-464e-93cd-7904ac33c4f9)
 
 
 **파일구조**
